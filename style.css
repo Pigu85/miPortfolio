@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    
+}
+header{
+    display: flex;
+    height: 70px;
+    background-color: gray;
+    align-items:center;
+    padding: 20;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo1{
+    height: 50px;
+}
+nav a:hover {
+color:white;
+}
+.carouselExampleDark{
+margin-top: 1em;
+margin-top: 1em;
+}
